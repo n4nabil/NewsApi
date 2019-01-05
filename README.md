@@ -31,6 +31,7 @@ Finally, the view role in this pattern is to observe a ViewModel observable to g
 
 ## Roadmap
 
+- Kotlin version
 - Improving the offline support.
 - Adding unit testing
 
