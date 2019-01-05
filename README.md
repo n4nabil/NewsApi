@@ -1,5 +1,5 @@
 # NewsApi
-An app that fetches latest news and headlines. It also allows the users to favourite their news. The user also has the option to choose the source of news. They can also search for any particular trending keyword. The following libraries were used in this project.
+An app that fetches latest news . It also allows the users to favourite their news.
 
 Android Architecture Components samples
 ===================================
