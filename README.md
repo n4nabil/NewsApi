@@ -13,6 +13,8 @@ A collection of samples using the [Architecture Components](https://developer.an
 - [jsonapi-converter](https://github.com/jasminb/jsonapi-converter)
 - [Glide](https://github.com/bumptech/glide)
 - [Retrofit](https://github.com/square/retrofit) + [OkHttp](https://github.com/square/okhttp)
+- [AndroidX](https://developer.android.com/topic/libraries/support-library/androidx-rn)
+- [Data Binding](https://developer.android.com/topic/libraries/data-binding/)
 
 # Project Conventions
 ## MVVM Architecture 
@@ -29,8 +31,6 @@ Finally, the view role in this pattern is to observe a ViewModel observable to g
 
 ## Roadmap
 
-- Adding different sections for Science, Technology and other types of news.
 - Improving the offline support.
-- Adding more filters
 - Adding unit testing
 
